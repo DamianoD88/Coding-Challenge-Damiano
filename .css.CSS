@@ -1,0 +1,89 @@
+body{
+  margin-top: 150px;
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: Poppins;
+}
+
+#Trasparenza{
+  padding: 5%;
+  width: 45%;
+  margin: auto;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 50px;
+}
+
+header{
+  text-align: center;
+}
+
+h1{
+  color: lime;
+  font-size: 100px;
+
+}
+
+nav{
+  background-color: lime;
+  padding: 25px 40px;
+  text-align: center;
+
+}
+
+button{
+  font-size: 30px;
+}
+
+main{
+  width: 74%;
+  color: white;
+}
+
+input{
+  size: 100px;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+
+}
+
+
+h2{
+  font-size: 50px;
+  display: inline-block;
+  margin-left: 12px;
+}
+
+span{
+    font-size: 35px;
+    display: block;
+}
+
+.Carica1{
+  background: orange;
+  width: 500px;
+  height: 50px;
+  border-radius: 10px;
+  margin-left: 0px;
+  opacity: 0.8;
+}
+
+.Carica2{
+  background: lime;
+  width: 900px;
+  height: 50px;
+  border-radius: 10px;
+  margin-left: 0px;
+  opacity: 0.8;
+
+}
+
+.Carica3{
+  background: red;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+  margin-left: 0px;
+  opacity: 0.8;
+
+}
